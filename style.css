@@ -55,3 +55,7 @@
 .contact{
     background-color: rgb(129, 231, 28);
 }
+.textd{
+    /* text-decoration: none; */
+    color: inherit;
+}
